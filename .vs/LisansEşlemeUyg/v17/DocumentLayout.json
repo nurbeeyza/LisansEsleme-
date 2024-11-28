@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\middleware\\licensevalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:middleware\\licensevalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\helpers\\regedithelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:helpers\\regedithelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\helpers\\rsahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:helpers\\rsahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\helpers\\keyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:helpers\\keyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\views\\license\\gecersiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:views\\license\\gecersiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|c:\\users\\beyza\\source\\repos\\lisanse\u015Flemeuyg\\middleware\\licensevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0008C355-EEC6-49EF-994F-669D6F22C062}|LisansE\u015FlemeUyg.csproj|solutionrelative:middleware\\licensevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 474,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Helpers\\HashHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Helpers\\HashHelper.cs",
+              "RelativeToolTip": "Helpers\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:38:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:36:09.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RSAHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Helpers\\RSAHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\RSAHelper.cs",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Helpers\\RSAHelper.cs",
+              "RelativeToolTip": "Helpers\\RSAHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:35:50.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LicenseValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Middleware\\LicenseValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\LicenseValidationMiddleware.cs",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Middleware\\LicenseValidationMiddleware.cs",
+              "RelativeToolTip": "Middleware\\LicenseValidationMiddleware.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:22:40.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegeditHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Helpers\\RegeditHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\RegeditHelper.cs",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Helpers\\RegeditHelper.cs",
+              "RelativeToolTip": "Helpers\\RegeditHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:38:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LicenseController.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Controllers\\LicenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LicenseController.cs",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Controllers\\LicenseController.cs",
+              "RelativeToolTip": "Controllers\\LicenseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:38:46.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:27:58.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T18:35:31.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Helpers\\KeyHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\KeyHelper.cs",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Helpers\\KeyHelper.cs",
+              "RelativeToolTip": "Helpers\\KeyHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:35:41.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gecersiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Views\\License\\Gecersiz.cshtml",
+              "RelativeDocumentMoniker": "Views\\License\\Gecersiz.cshtml",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Views\\License\\Gecersiz.cshtml",
+              "RelativeToolTip": "Views\\License\\Gecersiz.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:32:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LicenseValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Middleware\\LicenseValidationResult.cs",
+              "RelativeDocumentMoniker": "Middleware\\LicenseValidationResult.cs",
+              "ToolTip": "C:\\Users\\Beyza\\source\\repos\\LisansE\u015FlemeUyg\\Middleware\\LicenseValidationResult.cs",
+              "RelativeToolTip": "Middleware\\LicenseValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:44:22.05Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 181,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
